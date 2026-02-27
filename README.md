@@ -10,7 +10,7 @@
    ## 🛠️ My Skills
    <h3 align="left">💻 Programming Languages</h3>
   
-  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) 
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
   [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
