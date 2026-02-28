@@ -31,10 +31,10 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#) [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
- <h3 align="left"> 👾 Contact Me</h3>
+ <h3 align="left"> Contact Me</h3>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nada-hassan014?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nadah468@gmail.com)
 
 
 
