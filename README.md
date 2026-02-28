@@ -8,9 +8,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;FullStack .Net%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student%20&#127891;;Fullstack%20.Net%20Developer%20&#128105;&#127995;&#8205;&#128187;;Always%20learning%20new%20things!;&center=true&width=440&height=45"></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/NADAHASSAN143/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=NADAHASSAN143.NADAHASSAN143"></a>
 </p>
@@ -81,8 +80,6 @@
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NADAHASSAN143&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Language
-
 
  ### 🔗 &nbsp;Contact Me
 
@@ -91,7 +88,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nadah468@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nada-hassan014?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](t.me/NADAH143)
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+<h5 align="center">وَأَن لَّيْسَ لِلإنسَانِ إِلَّا مَاسَعَيٰ وأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ ثُمَّ يُجزاَهُ الجَزاءَ الأَوْفَى ♡ </h5>
  
 
 
