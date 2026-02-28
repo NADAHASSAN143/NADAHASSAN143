@@ -76,7 +76,7 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NADAHASSAN143&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  </div>
-  ### 📈 Activity Graph
+   📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NADAHASSAN143&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
